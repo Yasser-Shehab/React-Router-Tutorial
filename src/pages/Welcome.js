@@ -5,7 +5,7 @@ const Welcome = () => {
     <section>
       <h1>The Welcome Page</h1>
       <Route path="/welcome/new-user">
-        <p>Welcome New user</p>
+        <p>Welcome New user 1</p>
       </Route>
     </section>
   );
